@@ -6,6 +6,6 @@ Gruppemedlemmer:
 <ul>
 <li>Fredrik Christensen <a href="https://github.com/christensen89">(christensen89)</a></li>
   <li>Jonas Jore <a href="https://github.com/WorshipTheSofa">(WorshipTheSofa)</a></li>
-  <li>Birgitte Kjettorp</li>
+  <li>Birgitte Kjettorp<a href="https://github.com/birgittethe">(WorshipTheSofa)</a></li>
   <li>Ola Aulesjord Olsen <a href="https://github.com/olaolsena">(olaolsena)</a></li>
 </ul>
